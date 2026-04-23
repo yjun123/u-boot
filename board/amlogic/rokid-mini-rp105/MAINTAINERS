@@ -1,0 +1,7 @@
+Rokid Mini RP105
+M:	Jun Yan <jerrysteve1101@gmail.com>
+S:	Maintained
+L:	u-boot-amlogic@groups.io
+F:	board/amlogic/rokid-mini-rp105/
+F:	configs/rokid_mini_rp105_defconfig
+F:	doc/board/amlogic/rokid-mini-rp105.rst
